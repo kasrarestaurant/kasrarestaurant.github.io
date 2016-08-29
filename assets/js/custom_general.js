@@ -6,8 +6,8 @@
 		
 		var color = "#9E2811" // google map background colour
 		var saturation = 100 // 
-		var mapLatitude=33.568069
-		var mapLongitude=-117.700406//(Fist Value Latitude, Second Value ), get YOUR coordenates here!: http://itouchmap.com/latlong.html
+		var mapLatitude= 33.577545
+		var mapLongitude=-117.701725 //(Fist Value Latitude, Second Value ), get YOUR coordenates here!: http://itouchmap.com/latlong.html
 		var mapZoom_value=16 // Map zoom level parameter only numeric  
 
 
